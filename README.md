@@ -69,7 +69,7 @@ The device is composed of:
 ---
 
 ## Online simulation : 
-   **LINK : ** https://wokwi.com/projects/418369321627150337
+   **LINK :** https://wokwi.com/projects/418369321627150337
 
 ---
 
