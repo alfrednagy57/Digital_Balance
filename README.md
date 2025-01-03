@@ -74,11 +74,11 @@ The device is composed of:
 ---
 
 ## Simulation Photos
-![PXL_20240712_200756368](https://github.com/alfrednagy57/user-attachments/blob/main/IMAGES/Screenshot%202025-01-01%20030313.png?raw=true)
-![PXL_20240712_200813083](https://github.com/alfrednagy57/user-attachments/blob/main/IMAGES/Screenshot%202025-01-01%20030318.png?raw=true)
-![PXL_20240712_200813083](https://github.com/alfrednagy57/user-attachments/blob/main/IMAGES/Screenshot%202025-01-01%20030258.png?raw=true)
-![PXL_20240712_200813083](https://github.com/alfrednagy57/user-attachments/blob/main/IMAGES/Screenshot%202025-01-01%20030328.png?raw=true)
-![PXL_20240712_200813083](https://github.com/alfrednagy57/user-attachments/blob/main/IMAGES/Screenshot%202025-01-01%20030302.png?raw=true)
+![PXL_20240712_200756368](https://github.com/alfrednagy57/user-attachments/blob/main/IMAGES_/Screenshot%202025-01-01%20030313.png?raw=true)
+![PXL_20240712_200813083](https://github.com/alfrednagy57/user-attachments/blob/main/IMAGES_/Screenshot%202025-01-01%20030318.png?raw=true)
+![PXL_20240712_200813083](https://github.com/alfrednagy57/user-attachments/blob/main/IMAGES_/Screenshot%202025-01-01%20030258.png?raw=true)
+![PXL_20240712_200813083](https://github.com/alfrednagy57/user-attachments/blob/main/IMAGES_/Screenshot%202025-01-01%20030328.png?raw=true)
+![PXL_20240712_200813083](https://github.com/alfrednagy57/user-attachments/blob/main/IMAGES_/Screenshot%202025-01-01%20030302.png?raw=true)
 
 ## Requirements
 
