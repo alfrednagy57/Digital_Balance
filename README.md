@@ -103,3 +103,8 @@ The device is composed of:
    git clone https://github.com/alfrednagy57/Digital_Balance.git
    cd digital-weighing-device
 
+---
+
+## Contact
+
+For any inquiries, please contact the project maintainer at [linkedin](https://www.linkedin.com/in/alfred-nagy-882445224/).
