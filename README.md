@@ -92,6 +92,7 @@ The device is composed of:
 
 ### Software
 - Arduino IDE.
+   - and intall these libraries (Keypad.h,LiquidCrystal.h,HX711.h,EEPROM.h).    
 - HX711 and Keypad libraries.
 
 ---
