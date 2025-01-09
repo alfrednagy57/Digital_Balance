@@ -101,7 +101,7 @@ The device is composed of:
 1. Clone the repository:
    ```bash
    git clone https://github.com/alfrednagy57/Digital_Balance.git
-   cd digital-weighing-device
+   cd Digital_Balance
 
 ---
 
